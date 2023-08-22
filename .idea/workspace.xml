@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="983de069-0fe2-4e98-aa9f-0458c57ee2f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Structural/Flyweight/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Flyweight/CellContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Flyweight/CellContextFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Flyweight/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Flyweight/SpreadSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Proxy/DbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Proxy/DbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Proxy/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Proxy/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Proxy/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Proxy/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Proxy/ProductProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Proxy/ProductProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692714387129</updated>
       <workItem from="1692714387995" duration="5000" />
-      <workItem from="1692714475975" duration="6765000" />
+      <workItem from="1692714475975" duration="7499000" />
     </task>
     <servers />
   </component>
