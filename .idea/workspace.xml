@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="983de069-0fe2-4e98-aa9f-0458c57ee2f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Adapter/EmailProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Adapter/EmailProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Decorator/AbstractArtefact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Decorator/AbstractArtefact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Decorator/ErrorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Decorator/ErrorDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Decorator/MainDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Decorator/MainDecorator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692714387129</updated>
       <workItem from="1692714387995" duration="5000" />
-      <workItem from="1692714475975" duration="4155000" />
+      <workItem from="1692714475975" duration="5160000" />
     </task>
     <servers />
   </component>
